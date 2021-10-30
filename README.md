@@ -1,2 +1,2 @@
 # Flesk-nginx
-Templates for Flesk + gunicorn + nginx 
+Templates for Flask + gunicorn + nginx 
